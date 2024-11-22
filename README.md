@@ -31,10 +31,10 @@ This project is a simple calculator application built using Python and Tkinter. 
 • Evaluation Function: Uses Python's eval() function to compute the result.</br>
 • Error Handling: Prevents invalid operations (like division by zero) with simple checks.</br>
 
-##📸 Screenshots:
+## 📸 Screenshots:
 Include screenshots of the calculator interface, showing operations and results.</br>
 
-##🎯 Future Enhancements:
+## 🎯 Future Enhancements:
 • Add support for advanced mathematical operations (e.g., square root, exponentiation).</br>
 • Implement error messages for invalid inputs.</br>
 • Improve the design with custom styles or themes.</br>
