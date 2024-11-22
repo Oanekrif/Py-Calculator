@@ -39,5 +39,5 @@ Include screenshots of the calculator interface, showing operations and results.
 • Implement error messages for invalid inputs.</br>
 • Improve the design with custom styles or themes.</br>
 
-##🧑‍💻 Contributing:
+## 🧑‍💻 Contributing:
 Contributions are welcome! If you'd like to add more features or improve the project, feel free to fork the repository and create a pull request.</br>
