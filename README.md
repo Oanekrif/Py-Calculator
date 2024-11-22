@@ -17,7 +17,7 @@ This project is a simple calculator application built using Python and Tkinter. 
 ## 🚀 **How to Use:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oanekrif/Py-Calculator.git
+   git clone https://github.com/Oanekrif/Py-Calculator.git
 2. Navigate to the project directory:
    ```bash
    cd Py-Calculator
