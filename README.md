@@ -32,7 +32,8 @@ This project is a simple calculator application built using Python and Tkinter. 
 • Error Handling: Prevents invalid operations (like division by zero) with simple checks.</br>
 
 ## 📸 Screenshots:
-Include screenshots of the calculator interface, showing operations and results.</br>
+![overview](/src/image.png)
+</br>
 
 ## 🎯 Future Enhancements:
 • Add support for advanced mathematical operations (e.g., square root, exponentiation).</br>
