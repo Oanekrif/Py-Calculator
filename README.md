@@ -32,7 +32,7 @@ This project is a simple calculator application built using Python and Tkinter. 
 • Error Handling: Prevents invalid operations (like division by zero) with simple checks.</br>
 
 ## 📸 Screenshots:
-![overview](/src/image.png)
+![overview](https://github.com/Oanekrif/Py-Calculator/blob/master/image.png)
 </br>
 
 ## 🎯 Future Enhancements:
